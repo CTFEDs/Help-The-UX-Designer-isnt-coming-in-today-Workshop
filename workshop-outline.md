@@ -1,3 +1,8 @@
+---
+layout: default
+title: Workshop Outline
+---
+
 ## 0. Warm-up
 
 We look forward to seeing you at the workshop on Wednesday 6th April. To get you thinking about the topic, please reply with answers to one of the questions below, by Monday 4th.
