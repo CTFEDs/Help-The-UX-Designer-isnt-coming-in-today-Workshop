@@ -41,13 +41,13 @@ Presentation: Jen
 ## 3. Concrete Practice 10m
 
 * Have one poster for each screen (will have multiple problems). Write ideas for solutions.
-* Keep high-level principles up on projector.
+* Have high-level principles up on a poster.
 
 ## 4. Concepts 10m
 
 * Jen and Steve talk through posters.
-* Jen short presentation on prioritisation.
-* Steve do short presentation of intro to activity.
+* Jen short presentation on prioritisation. Short discussion instead?
+* Steve do short intro to activity.
 
 ## 5. Concrete Practice 30m
 
