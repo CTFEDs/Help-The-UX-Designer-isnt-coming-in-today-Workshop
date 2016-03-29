@@ -63,3 +63,4 @@ Presentation: Jen
 * Write down your own answer to your Q card.
 * Grab a new card. Write down SMART goal on it. Before next meetup. Something you're going to differently.
 * Handout of principles.
+* **Facilitator Feedback**: on and index card, write down **one thing we could do differently next time**.
