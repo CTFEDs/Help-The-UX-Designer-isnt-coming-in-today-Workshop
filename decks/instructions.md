@@ -40,6 +40,7 @@ Specific, Measurable, Achievable, Realistic, Time-bound
 ![fit](../img/tftbotr2.png)
 
 ^ Sharon Bowman
+Learner-focused, topic-focused
 Learn by doing, not listening
 there will be WALKING
 
@@ -48,6 +49,8 @@ there will be WALKING
 # Tight Ship
 
 ![](../img/rabbit.png)
+
+^ But don't stress!
 
 ---
 
@@ -72,7 +75,8 @@ name, job, company, experience (?)
 
 ![](../img/flipchart.jpg)
 
-^ based on principles
+^ a poster per screen
+based on principles
 
 ---
 
@@ -114,6 +118,9 @@ go left
 
 ![](../img/indexcards2.jpg)
 
+^ could be same
+probably different
+
 ---
 
 ## Grab a **card**
@@ -130,7 +137,7 @@ Something you're going to differently.
 
 ---
 
-## One thing that **pleased** or **surprised** you
+## One thing that **pleased** or **surprised** you about the workshop
 
 ![](../img/discussion.jpg)
 
