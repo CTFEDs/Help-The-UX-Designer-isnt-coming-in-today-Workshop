@@ -8,29 +8,55 @@
 
 ---
 
-### Questionable card swap
+## **Similarities** in<br>warm-up answers?
+
+![](../img/discussion.jpg)
+
+^ * UX covers many areas
+* prototyping, testing with users
+* usable, useful, enjoyable
+* from the start, and during
+* user-centered
+
+---
 
 ## Your **name** on the back
-## **1 question** on the front
+## **1 question** about UX on the front
 ## Pick **someone else's card**, answer the question
 
 ![](../img/indexcards.jpg)
 
-^ Keep your own card for later
+^ Questionable card swap
+Keep your own card for later
 
 ---
 
 ## Help! The UX Designer isn't coming in today!
+## **ctfeds.org/help**
 
 ![](../img/help.jpg)
 
+^ Materials will be up there in the next day or
+
+
 ---
+
+# **BIG** FACES
+
+![](../img/jen.jpg) ![](../img/steve.jpg)
+
+^ Introduce each other:
+name, job, company, experience (?)
+
+——
 
 ### Agenda
 
-## The case study
-## Find and sketch solutions
-## Leave with SMART goal
+## The **case study**
+## Find and **sketch** solutions
+## Leave with **SMART goal**
+
+![](../img/agenda.jpg)
 
 ^ high-level principles
 Specific, Measurable, Achievable, Realistic, Time-bound
@@ -40,8 +66,6 @@ Specific, Measurable, Achievable, Realistic, Time-bound
 ![fit](../img/tftbotr2.png)
 
 ^ Sharon Bowman
-Learner-focused, topic-focused
-Learn by doing, not listening
 there will be WALKING
 
 ---
@@ -50,20 +74,13 @@ there will be WALKING
 
 ![](../img/rabbit.png)
 
-^ But don't stress!
+^ Tight on time
+But don't stress!
 
 ---
 
-# BIG FACES
-
-![](../img/jen.jpg) ![](../img/steve.jpg)
-
-^ Introduce each other:
-name, job, company, experience (?)
-
----
-
-# Presentation
+# Presentation:
+# Case Study
 
 ![](../img/presentation.jpg)
 
@@ -137,11 +154,14 @@ Something you're going to differently.
 
 ---
 
-## One thing that **pleased** or **surprised** you about the workshop
+### Facilitator feedback
 
-![](../img/discussion.jpg)
+## Grab another **card**
+## Write down one thing we could **do differently next time**
 
-^ Anyone care to share?
+![](../img/indexcards.jpg)
+
+^ Facilitator feedback
 
 ---
 
