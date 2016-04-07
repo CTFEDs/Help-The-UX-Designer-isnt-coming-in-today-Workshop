@@ -16,10 +16,9 @@ We look forward to seeing you at the workshop on Wednesday 6th April. To get you
 
 * Activity: Share your answers to the warm-up questions with at least three other people in the room.
 * Have warm-up Qs ready for people who haven't done them.
-* Steve and Jen intro selves.
-* Question: what similarities? (have examples ready).
+* Question: what similarities? Jen and Steve provide brief summary across group.
 
-### Questionable card swap 10m
+### Questionable card swap 5m
 
 * On the back of a card, write your name.
 * On the front of a card, write down one question you have about UX.
@@ -27,7 +26,7 @@ We look forward to seeing you at the workshop on Wednesday 6th April. To get you
 
 ## Agenda
 
-## 2. Concepts 10m
+## 2. Concepts 25m
 
 Presentation: Jen
 
@@ -38,24 +37,22 @@ Presentation: Jen
 * Have audience guess at problems. Ask for 3.
 * High-level UX principles. A psychological example: people can't choose between options. E.g. can't compare shipping options.
 
-## 3. Concrete Practice 10m
+## 3. Concrete Practice 15m
 
 * Have one poster for each screen (will have multiple problems). Write ideas for solutions.
 * Have high-level principles up on a poster.
 
 ## 4. Concepts 10m
 
-* Jen and Steve talk through posters.
-* Jen short presentation on prioritisation. Short discussion instead?
-* Steve do short intro to activity.
+* Jen and Steve provide brief summary of all ideas.
+* Continue narrative: 6 months of work to fix it; client says 2 weeks first, then we'll see. How to pick what to do?
+* Jen present few slides on prioritisation. Ask audience.
 
-## 5. Concrete Practice 30m
+## 5. Concrete Practice 20m
 
 * Sketch a redesign.
 * New sketch or annotate.
-* Work alone for 15m.
-* Share your sketches with your table 15m. Take 3m each, go left.
-* Update your own with new ideas.
+* Discuss as you go along.
 
 ## 6.  Conclusions 10m
 
