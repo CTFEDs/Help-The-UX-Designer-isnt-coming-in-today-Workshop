@@ -8,8 +8,8 @@ title: Photos
 ## The Workshop
 
 [![](../photos/thumbs/workshop1.jpg)](../photos/workshop1.jpg)
-[![](../photos/thumbs/workshop1.jpg)](../photos/workshop2.jpg)
-[![](../photos/thumbs/workshop1.jpg)](../photos/workshop3.jpg)
+[![](../photos/thumbs/workshop2.jpg)](../photos/workshop2.jpg)
+[![](../photos/thumbs/workshop3.jpg)](../photos/workshop3.jpg)
 
 ## The Posters
 
